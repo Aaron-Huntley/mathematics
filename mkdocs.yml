@@ -20,3 +20,7 @@ theme:
       accent: light green
   logo: logo.png
   favicon: logo.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
