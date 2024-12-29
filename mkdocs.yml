@@ -8,13 +8,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: deep orange
+      accent: amber
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: cyan
+      accent: light green
+  logo: logo.png
+  favicon: logo.png
