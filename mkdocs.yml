@@ -18,8 +18,8 @@ theme:
         name: Light mode
       primary: cyan
       accent: light green
-  logo: logo.png
-  favicon: logo.png
+  logo: images/logo.png
+  favicon: images/favicon.png
   features:
     - navigation.instant
     - navigation.tabs
